@@ -1,5 +1,6 @@
 # Calculadora
 Em desenvolvimento
+
 Até agora:
 - Criação de uma calculadora com operações simples (+ - * /) utilizando o modulo tkinter do Python para criação da interface
 
